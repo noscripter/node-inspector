@@ -22,10 +22,10 @@
     "node-debug": "./bin/node-debug.js"
   },
   "dependencies": {
-    "express": "~4.0",
+    "express": "~4.15.5",
     "async": "~0.8",
-    "glob": "~3.2.1",
-    "rc": "~0.3.0",
+    "glob": "~5.0.15",
+    "rc": "~1.2.7",
     "strong-data-uri": "~0.1.0",
     "debug": "~1.0",
     "ws": "~0.4.31",
